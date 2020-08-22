@@ -1,0 +1,10 @@
+.auth-form {
+  width: 25rem;
+  max-width: 80%;
+  margin: 5rem auto;
+}
+input{
+  border-radius: 5px;
+  height: 30px;
+}
+

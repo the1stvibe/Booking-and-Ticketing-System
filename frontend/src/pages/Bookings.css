@@ -1,0 +1,14 @@
+.clipping{
+    position: absolute;
+    left: 300px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#861919
+}
+
+.recentbookings{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+    color:#861919
+
+}
